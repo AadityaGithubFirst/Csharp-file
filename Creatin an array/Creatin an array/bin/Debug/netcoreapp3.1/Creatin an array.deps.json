@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Creatin an array/1.0.0": {
+        "runtime": {
+          "Creatin an array.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Creatin an array/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
